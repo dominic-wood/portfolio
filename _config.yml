@@ -1,16 +1,14 @@
 title: Dominic Wood
-theme: jekyll-theme-minimal
-logo: /assets/profile.png # Optional
-show_downloads: false
-description: Portfolio and technical documentation by Dominic
+description: A portfolio of projects and documentation by Dominic
+theme: just-the-docs
+favicon: /assets/favicon.ico
 
-# Navigation
-navigation:
-  - title: Home
-    url: /
-  - title: Projects
-    url: /projects
-  - title: Writing
-    url: /writing
-  - title: Contact
-    url: /contact
+# Set the base path if using a project repo (not username.github.io)
+baseurl: "/portfolio"
+
+# Optional features
+color_scheme: light
+
+# Build settings
+plugins:
+  - jekyll-feed
