@@ -4,22 +4,43 @@ title: Welcome
 nav_order: 1
 ---
 
-# 👋 Welcome
+# 👋 Hello, I'm Dominic Wood
 
-I'm **Dominic Wood** — a network engineer with 6 years of software development experience, now pivoting into **technical writing**.
+I'm a **Network Engineer** with 6 years of experience in **Software Engineering** — now focusing on **Technical Writing**.
 
-This site showcases:
-- 🛠️ Technical projects and tools I’ve built
-- ✍️ Writing samples and documentation
-- 📘 API and networking guides
-- 🧠 My ability to communicate complex concepts clearly
+I specialise in creating clean, developer-friendly tools and documentation that explain complex systems with clarity and confidence.
+![Dominic Wood banner](/assets/dominic-bitmoji.png)
 
-Whether you're a recruiter, hiring manager, or fellow tech enthusiast — thanks for stopping by.
+## 🧭 What You'll Find Here
 
-## 📚 Quick Links
+This site showcases my ability to:
+- ✍️ Write clear, structured documentation
+- 🛠️ Build and explain technical tools
+- 📚 Break down networking, software, and API concepts
+- 💡 Think like a developer, write like a teacher
 
-- [View My Projects](/docs/projects/)
-- [Read My Writing](/docs/writing/)
-- [See a Sample API Doc](/docs/api-sample/)
-- [Networking Lab Guide](/docs/networking-lab/)
-- [Contact Me](/contact/)
+## 🧰 Featured Work
+
+Here are a few things I’ve been building and writing:
+
+- 🔐 [Password Generator (Python)](/portfolio/docs/projects/password-generator/)
+- 🌐 [NetTools — Network Utilities Suite](/portfolio/docs/projects/nettools/)
+- 📸 [QR Code Generator GUI](/portfolio/docs/projects/qr-generator/)
+- 📘 [Sample API Documentation](/portfolio/docs/api-sample/)
+- 🧪 [Networking Lab Guide](/portfolio/docs/networking-lab/)
+- 🧰 [Git for Beginners](/portfolio/docs/writing/git-for-beginners/)
+- 🔌 [Mock API Reference](/portfolio/docs/writing/mock-api/)
+
+## 📄 About Me
+
+With a passion for documentation and teaching, I’m pivoting into technical writing full-time.  
+My background blends:
+- Real-world networking experience
+- Software dev in Python, C#, and more
+- A deep appreciation for clear, helpful docs
+
+## 📥 Get in Touch
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub" />](https://github.com/dominic-wood)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn" />](https://www.linkedin.com/in/domjwood)
