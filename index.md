@@ -23,13 +23,13 @@ This site showcases my ability to:
 
 Here are a few things I’ve been building and writing:
 
-- 🔐 [Password Generator (Python)](/docs/projects/password-generator/)
-- 🌐 [NetTools — Network Utilities Suite](/docs/projects/nettools/)
-- 📸 [QR Code Generator GUI](/docs/projects/qr-generator/)
-- 📘 [Sample API Documentation](/docs/writing/api-sample/)
-- 🧪 [Networking Lab Guide](/docs/writing/networking-lab/)
-- 🧰 [Git for Beginners](/docs/writing/git-for-beginners/)
-- 🔌 [Mock API Reference](/docs/writing/mock-api/)
+- 🔐 [Password Generator (Python)](/portfolio/docs/projects/password-generator/)
+- 🌐 [NetTools — Network Utilities Suite](/portfolio/docs/projects/nettools/)
+- 📸 [QR Code Generator GUI](/portfolio/docs/projects/qr-generator/)
+- 📘 [Sample API Documentation](/portfolio/docs/writing/api-sample/)
+- 🧪 [Networking Lab Guide](/portfolio/docs/writing/networking-lab/)
+- 🧰 [Git for Beginners](/portfolio/docs/writing/git-for-beginners/)
+- 🔌 [Mock API Reference](/portfolio/docs/writing/mock-api/)
 
 ## 📄 About Me
 
