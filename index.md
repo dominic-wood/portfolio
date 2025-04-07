@@ -3,6 +3,7 @@ layout: default
 title: Welcome
 nav_order: 1
 ---
+<div style="text-align: center; max-width: 700px; margin: 0 auto;">
 
 # 👋 Hello, I'm Dominic Wood
 
@@ -39,8 +40,10 @@ My background blends:
 - Software dev in Python, C#, and more
 - A deep appreciation for clear, helpful docs
 
-## 📥 Get in Touch
 
+--- 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub" />](https://github.com/dominic-wood)
 &nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn" />](https://www.linkedin.com/in/domjwood)
+
+</div>
