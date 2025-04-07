@@ -1,5 +1,6 @@
 ---
 title: Networking Lab Guide
+parent: Writing
 nav_order: 4
 ---
 

@@ -6,9 +6,6 @@ has_children: true
 
 # 📝 Articles & Guides
 
-My technical documentation and beginner-friendly explainers.
+This section contains writing samples that demonstrate how I explain technical concepts clearly and concisely.
 
----
-
-- [Git for Beginners](writing/git-for-beginners.md)
-- [Mock API Documentation](writing/mock-api.md)
+Use the menu on the left (or above, on mobile) to browse individual pieces.

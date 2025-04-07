@@ -1,5 +1,6 @@
 ---
 title: Sample API Documentation
+parent: Writing
 nav_order: 5
 ---
 
