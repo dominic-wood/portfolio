@@ -1,6 +1,6 @@
 title: Dominic Wood
 description: A portfolio of projects and documentation by Dominic
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 favicon_ico: /assets/favicon.png
 
 # Set the base path if using a project repo (not username.github.io)
@@ -12,3 +12,4 @@ color_scheme: light
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
