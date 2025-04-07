@@ -122,3 +122,5 @@ See the [LICENSE](https://license/) file for details.
 ## 🔗 GitHub Repo
 
 [View on GitHub](https://github.com/dominic-wood/qr-code-generator)
+
+[← Back to Projects](/portfolio/docs/projects/)

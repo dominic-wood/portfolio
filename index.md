@@ -18,8 +18,8 @@ Whether you're a recruiter, hiring manager, or fellow tech enthusiast — thanks
 
 ## 📚 Quick Links
 
-- [View My Projects](/portfolio/docs/projects/)
-- [Read My Writing](/portfolio/docs/writing/)
-- [See a Sample API Doc](/portfolio/docs/api-sample/)
-- [Networking Lab Guide](/portfolio/docs/networking-lab/)
-- [Contact Me](/portfolio/contact/)
+- [View My Projects](/docs/projects/)
+- [Read My Writing](/docs/writing/)
+- [See a Sample API Doc](/docs/api-sample/)
+- [Networking Lab Guide](/docs/networking-lab/)
+- [Contact Me](/contact/)
