@@ -1,0 +1,16 @@
+title: Dominic Wood
+theme: jekyll-theme-minimal
+logo: /assets/profile.png # Optional
+show_downloads: false
+description: Portfolio and technical documentation by Dominic
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects
+  - title: Writing
+    url: /writing
+  - title: Contact
+    url: /contact
