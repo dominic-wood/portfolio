@@ -16,12 +16,10 @@ This site showcases:
 
 Whether you're a recruiter, hiring manager, or fellow tech enthusiast — thanks for stopping by.
 
----
-
 ## 📚 Quick Links
 
-- [View My Projects](docs/projects.md)
-- [Read My Writing](docs/writing.md)
-- [See a Sample API Doc](docs/api-sample.md)
-- [Networking Lab Guide](docs/networking-lab.md)
-- [Contact Me](contact.md)
+- [View My Projects](/portfolio/docs/projects/)
+- [Read My Writing](/portfolio/docs/writing/)
+- [See a Sample API Doc](/portfolio/docs/api-sample/)
+- [Networking Lab Guide](/portfolio/docs/networking-lab/)
+- [Contact Me](/portfolio/contact/)
