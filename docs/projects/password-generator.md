@@ -10,7 +10,7 @@ A modern, easy-to-use password generator built with Python and a sleek GUI using
 
 Quickly generate secure, customizable passwords with live strength feedback and a clipboard copy feature.
 
-![Password Generator Icon](/assets/password_generator_icon.png)
+![Password Generator Icon](../../assets/password_generator_icon.png)
 
 ---
 
@@ -33,7 +33,7 @@ Quickly generate secure, customizable passwords with live strength feedback and 
 
 | Light Mode | Dark Mode |
 |---|---|
-| ![Light Mode](/assets/light_mode.png) | ![Dark Mode](/assets/dark_mode.png)  |
+| ![Light Mode](../../assets/light_mode.png) | ![Dark Mode](../../assets/dark_mode.png)  |
 
 ## 🚀 Getting Started
 
