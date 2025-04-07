@@ -123,4 +123,4 @@ See the [LICENSE](https://license/) file for details.
 
 [View on GitHub](https://github.com/dominic-wood/qr-code-generator)
 
-[← Back to Projects](/docs/projects.md/)
+[← Back to Projects](docs/projects.md)

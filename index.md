@@ -24,7 +24,7 @@ This site showcases my ability to:
 Here are a few things I’ve been building and writing:
 
 - 🔐 [Password Generator (Python)](docs/projects/password-generator.md)
-- 🌐 [NetTools — Network Utilities Suite](docs/projects/nettool.md)
+- 🌐 [NetTools — Network Utilities Suite](docs/projects/nettools.md)
 - 📸 [QR Code Generator GUI](docs/projects/qr-generator.md)
 - 📘 [Sample API Documentation](docs/writing/api-sample.md)
 - 🧪 [Networking Lab Guide](docs/writing/networking-lab.md)

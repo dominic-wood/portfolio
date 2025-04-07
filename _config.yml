@@ -1,8 +1,8 @@
 title: Dominic Wood
 description: A portfolio of projects and documentation by Dominic
-remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.6.0
 favicon_ico: /assets/favicon.png
-color_scheme: dark
+color_scheme: auto
 
 baseurl: "/portfolio"
 
