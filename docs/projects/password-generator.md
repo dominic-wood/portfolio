@@ -73,4 +73,4 @@ This project is licensed under the MIT License.
 
 [View on GitHub](https://github.com/dominic-wood/password-generator)
 
-[← Back to Projects](docs/projects.md)
+[← Back to Projects](/docs/projects.md)
