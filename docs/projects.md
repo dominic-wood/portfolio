@@ -1,28 +1,16 @@
 ---
 title: Projects
 nav_order: 2
+has_children: true
 ---
 
 # 🛠️ Projects
 
-### 🔐 Password Generator (Python)
-A simple CLI password generator with customizable length and complexity.  
-[GitHub Repo](https://github.com/yourusername/password-generator)
+Here’s a selection of tools and applications I’ve built across networking and software development.
 
 ---
 
-### 🌐 NetTools (Python)
-GUI-based network tools: ping, traceroute, port scanner.  
-[GitHub Repo](https://github.com/yourusername/nettools)
-
----
-
-### 📷 QR Code Generator (Python)
-Takes user input and generates downloadable QR codes.  
-[GitHub Repo](https://github.com/yourusername/qr-code-generator)
-
----
-
-### 🚚 Courier – A Postman Clone (C#)
-Tabbed API tester with modern UI.  
-[GitHub Repo](https://github.com/yourusername/courier)
+- [Password Generator (Python)](projects/password-generator.md)
+- [NetTools – Network Utilities GUI (Python)](projects/nettools.md)
+- [QR Code Generator (Python)](projects/qr-generator.md)
+- [Courier – A Postman Clone (C#)](projects/courier.md)

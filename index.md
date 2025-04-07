@@ -6,11 +6,22 @@ nav_order: 1
 
 # 👋 Welcome
 
-I'm Dominic — a network engineer with 6 years' software experience, now shifting gears into technical writing.
+I'm **Dominic Wood** — a network engineer with 6 years of software development experience, now pivoting into **technical writing**.
 
-Here you'll find:
-- 🛠️ Technical projects with clear documentation
-- ✍️ Writing samples and tutorials
-- 📘 API and networking documentation examples
+This site showcases:
+- 🛠️ Technical projects and tools I’ve built
+- ✍️ Writing samples and documentation
+- 📘 API and networking guides
+- 🧠 My ability to communicate complex concepts clearly
 
-Use the sidebar to browse.
+Whether you're a recruiter, hiring manager, or fellow tech enthusiast — thanks for stopping by.
+
+---
+
+## 📚 Quick Links
+
+- [View My Projects](docs/projects.md)
+- [Read My Writing](docs/writing.md)
+- [See a Sample API Doc](docs/api-sample.md)
+- [Networking Lab Guide](docs/networking-lab.md)
+- [Contact Me](contact.md)
