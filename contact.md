@@ -8,7 +8,7 @@ nav_order: 99
 
 I'm open to technical writing, developer documentation, and networking-focused roles.
 
-- 📧 Email: `dominic [at] example [dot] com`
+- 📧 Email: `dominicwood@outlook.com`
 - 💼 [LinkedIn](https://www.linkedin.com/in/domjwood)
 - 💻 [GitHub](https://github.com/dominic-wood)
 
