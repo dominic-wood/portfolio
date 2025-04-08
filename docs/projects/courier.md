@@ -3,10 +3,11 @@ title: Courier
 parent: Projects
 nav_order: 4
 ---
-# Courier – API Toolkit 📨
+# Courier – API Toolkit 🔺
 
 Courier is a lightweight Postman-style HTTP client built with React, TypeScript, and Tailwind CSS.  
 It allows developers to quickly compose and test API requests with a clean, focused interface.
+
 
 ![Courier Screenshot](../../assets/courier_logo_black.png)
 

@@ -24,19 +24,19 @@ This site showcases my ability to:
 
 Here are a few things I’ve been building and writing:
 
-#### Projects
+### 📄 Projects
 
 - 🔐 [Password Generator (Python)](docs/projects/password-generator.md)
 - 🌐 [NetTools — Network Utilities (Python)](docs/projects/nettools.md)
 - 📸 [QR Code Generator (Python)](docs/projects/qr-generator.md)
-- [Courier - A Postman Clone (C#)](docs/projects/courier.md)
+- 🔺 [Courier - A Postman Clone (TypeScript)](docs/projects/courier.md)
 
-#### Docs
+### 📘 Documentation
 
 - 📘 [Sample API Documentation](docs/writing/api-sample.md)
 - 🧪 [Networking Lab Guide](docs/writing/networking-lab.md)
 
-## 📄 About Me
+## 👨‍💻 About Me
 
 With a passion for documentation and teaching, I’m pivoting into technical writing full-time.  
 My background blends:
@@ -44,6 +44,13 @@ My background blends:
 - Software dev in Python, C#, and more
 - A deep appreciation for clear, helpful docs
 
---- 
+---
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub" />](https://github.com/dominic-wood)  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn" />](https://www.linkedin.com/in/domjwood)
+
+<div align="center">
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub" />](https://github.com/dominic-wood)
+&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn" />](https://www.linkedin.com/in/domjwood)
+
+</div>
