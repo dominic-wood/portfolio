@@ -24,9 +24,14 @@ This site showcases my ability to:
 
 Here are a few things I’ve been building and writing:
 
+#### Projects
+
 - 🔐 [Password Generator (Python)](docs/projects/password-generator.md)
-- 🌐 [NetTools — Network Utilities Suite](docs/projects/nettools.md)
-- 📸 [QR Code Generator GUI](docs/projects/qr-generator.md)
+- 🌐 [NetTools — Network Utilities (Python)](docs/projects/nettools.md)
+- 📸 [QR Code Generator (Python)](docs/projects/qr-generator.md)
+
+#### Docs
+
 - 📘 [Sample API Documentation](docs/writing/api-sample.md)
 - 🧪 [Networking Lab Guide](docs/writing/networking-lab.md)
 
@@ -38,8 +43,10 @@ My background blends:
 - Software dev in Python, C#, and more
 - A deep appreciation for clear, helpful docs
 
-
 --- 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub" />](https://github.com/dominic-wood)
-&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn" />](https://www.linkedin.com/in/domjwood)
+
+<div align="center">
+<br></br>
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub" />](https://github.com/dominic-wood)  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn" />](https://www.linkedin.com/in/domjwood)
+</div>
