@@ -4,113 +4,173 @@ parent: Writing
 nav_order: 5
 ---
 
-# 📘 Sample API Documentation
+# 🧪 Mock API Documentation – Task Manager API
 
-This mock API demonstrates how I structure and write REST API documentation for clarity, usability, and consistency.  
-It includes authentication, request/response examples, error handling, and usage notes.
+**Version:** 1.0  
+**Base URL:** `https://api.taskmanager.dev/v1`  
+**Authentication:** Bearer Token (JWT) required for all endpoints except `/auth/register` and `/auth/login`
 
+## 📚 Table of Contents
+
+- [Authentication](#authentication)
+  - [POST /auth/register](#post-authregister)
+  - [POST /auth/login](#post-authlogin)
+- [Tasks](#tasks)
+  - [GET /tasks](#get-tasks)
+  - [POST /tasks](#post-tasks)
+  - [GET /tasks/{id}](#get-tasksid)
+  - [PUT /tasks/{id}](#put-tasksid)
+  - [DELETE /tasks/{id}](#delete-tasksid)
+- [Error Handling](#error-handling)
+
+<a id="authentication"></a>
 ## 🔐 Authentication
 
-All requests require an API key:
+### POST `/auth/register`  
+Register a new user account.
 
-- Include in the `Authorization` header:
-
-```http
-Authorization: Bearer YOUR_API_KEY
-```
-
-- Or as a query parameter:
-
-```
-?api_key=YOUR_API_KEY
-```
-
-## 📚 Resources
-
-### 🧑‍🤝‍🧑 Users
-
-#### `GET /users`
-
-Retrieve a list of users.
-
-**Query Parameters:**
-
-| Parameter | Type   | Description         |
-|-----------|--------|---------------------|
-| `limit`   | number | Max number of users |
-| `offset`  | number | Pagination offset   |
-
-**Request:**
-
-```http
-GET /users?limit=10&offset=0
-Authorization: Bearer sk_test_1234
-```
-
-**Response:**
-
+**Request Body:**
 ```json
 {
-  "users": [
-    { "id": 1, "name": "Alice", "email": "alice@example.com" },
-    { "id": 2, "name": "Bob", "email": "bob@example.com" }
-  ]
-}
-```
-
-#### `POST /users`
-
-Create a new user.
-
-**Body Parameters:**
-
-| Field   | Type   | Required | Description |
-|---------|--------|----------|-------------|
-| `name`  | string | ✅       | Full name   |
-| `email` | string | ✅       | Valid email |
-
-**Request:**
-
-```http
-POST /users
-Content-Type: application/json
-Authorization: Bearer sk_test_1234
-
-{
-  "name": "Charlie",
-  "email": "charlie@example.com"
+  "email": "user@example.com",
+  "password": "SecurePass123"
 }
 ```
 
 **Response:**
+```json
+{
+  "message": "User registered successfully."
+}
+```
 
+
+
+### POST `/auth/login`  
+Log in and retrieve a JWT token.
+
+**Request Body:**
+```json
+{
+  "email": "user@example.com",
+  "password": "SecurePass123"
+}
+```
+
+**Response:**
+```json
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
+}
+```
+
+<a id="tasks"></a>
+## ✅ Tasks
+
+> All task-related routes require a valid Bearer token in the `Authorization` header.
+
+### GET `/tasks`  
+Retrieve a list of tasks for the authenticated user.
+
+**Response:**
+```json
+[
+  {
+    "id": 1,
+    "title": "Write API docs",
+    "completed": false,
+    "due_date": "2025-04-10T12:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Review pull requests",
+    "completed": true,
+    "due_date": null
+  }
+]
+```
+
+### POST `/tasks`  
+Create a new task.
+
+**Request Body:**
+```json
+{
+  "title": "Fix login bug",
+  "due_date": "2025-04-15T09:00:00Z"
+}
+```
+
+**Response:**
 ```json
 {
   "id": 3,
-  "name": "Charlie",
-  "email": "charlie@example.com"
+  "title": "Fix login bug",
+  "completed": false,
+  "due_date": "2025-04-15T09:00:00Z"
 }
 ```
 
-## 📝 Notes
+### GET `/tasks/{id}`  
+Get details of a specific task.
 
-- All endpoints return JSON.
-- Invalid or missing API keys will return a `401 Unauthorized`.
-- Requests that fail validation will return a `400 Bad Request` with a message.
+**Response:**
+```json
+{
+  "id": 3,
+  "title": "Fix login bug",
+  "completed": false,
+  "due_date": "2025-04-15T09:00:00Z"
+}
+```
 
-## ⚠️ Error Responses
+### PUT `/tasks/{id}`  
+Update an existing task.
 
-| Code | Message               | When It Happens                    |
-|------|-----------------------|------------------------------------|
-| 400  | Invalid input         | Missing or malformed fields        |
-| 401  | Unauthorized          | No or invalid API key              |
-| 404  | Not Found             | Resource doesn't exist             |
-| 500  | Internal Server Error | Something broke on our side        |
+**Request Body:**
+```json
+{
+  "title": "Fix login bug (urgent)",
+  "completed": true
+}
+```
 
-**Example error response:**
+**Response:**
+```json
+{
+  "id": 3,
+  "title": "Fix login bug (urgent)",
+  "completed": true,
+  "due_date": "2025-04-15T09:00:00Z"
+}
+```
+
+### DELETE `/tasks/{id}`  
+Delete a task by ID.
+
+**Response:**
+```json
+{
+  "message": "Task deleted successfully."
+}
+```
+<a id="error-handling"></a>
+## 🚫 Error Handling
+
+All error responses follow this format:
 
 ```json
 {
-  "error": "Missing email"
+  "error": "Error message goes here."
 }
 ```
+
+**Common Status Codes:**
+
+| Status Code | Meaning                      |
+|-------------|------------------------------|
+| 200 OK      | Request succeeded             |
+| 201 Created | Resource created successfully |
+| 400 Bad Request | Invalid input or parameters |
+| 401 Unauthorized | Missing or invalid token    |
+| 404 Not Found | Resource not found           |
