@@ -12,8 +12,6 @@ Quickly generate secure, customizable passwords with live strength feedback and 
 
 ![Password Generator Icon](../../assets/password_generator_icon.png)
 
----
-
 ## ✨ Features
 
 - 📏 Adjustable password length via slider  
