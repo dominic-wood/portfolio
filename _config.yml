@@ -1,19 +1,11 @@
 title: Dominic Wood
 description: A portfolio of projects and documentation by Dominic
 remote_theme: just-the-docs/just-the-docs
-favicon_ico: /assets/favicon.png
 color_scheme: light
+favicon_ico: /assets/favicon.png
 search_enabled: false
-
 baseurl: "/portfolio"
 
-# Enable custom styles
-sass:
-  custom_css: assets/css/custom.css
-  load_paths:
-    - assets/css
-
-# Build settings
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
