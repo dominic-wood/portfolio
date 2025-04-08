@@ -9,6 +9,7 @@ nav_order: 1
 I'm a **Network Engineer** with 6 years of experience in **Software Engineering** — now focusing on **Technical Writing**.
 
 I specialise in creating clean, developer-friendly tools and documentation that explain complex systems with clarity and confidence.
+
 ![Dominic Wood banner](/assets/dominic-bitmoji.png)
 
 ## 🧭 What You'll Find Here

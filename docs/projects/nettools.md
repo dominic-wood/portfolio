@@ -9,7 +9,6 @@ nav_order: 2
 **NetTools** is a Python-based GUI app that brings together key network tools in a simple, user-friendly interface. It’s built for sysadmins, students, and curious tinkerers who want quick access to useful diagnostics.
 
 ![NetTools Logo](../../assets/nettools_logo.png)
-
 ## 🚀 Features
 
 ### 🔍 **Ping Sweeper**

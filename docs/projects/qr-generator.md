@@ -8,7 +8,7 @@ nav_order: 3
 
 A simple Python application for generating QR codes with custom styles, templates, and a modern preview interface.
 
----
+![QR Generator Icon](../../assets/qr_generator_icon.png)
 
 ## ✨ Features
 
@@ -30,7 +30,7 @@ A simple Python application for generating QR codes with custom styles, template
 
 ## 🖼️ Interface
 
-![QR Code Generator Preview](../../assets/qr_preview.png)
+
 
 ## ⚙️ Requirements
 
