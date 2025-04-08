@@ -1,5 +1,5 @@
 ---
-title: Courier
+title: Courier - API Toolkit
 parent: Projects
 nav_order: 1
 ---
@@ -8,7 +8,7 @@ Courier is a lightweight Postman-style API testing client built using React, Typ
 
 It offers a clean, responsive interface for quickly sending HTTP requests and viewing results — all with a crisp Courier-red design. 🔥
 
-![Courier Screenshot](/assets/courier_logo_black.png)
+![Courier Logo](../../assets/courier_logo_black.png)
 
 🔗 **Live Site**: [courierapi.vercel.app](https://courierapi.vercel.app)
 
@@ -26,11 +26,11 @@ It offers a clean, responsive interface for quickly sending HTTP requests and vi
 
 ## 📸 Screenshots
 ### 🖥️ Desktop View
-![Courier Desktop](/assets/screenshot-desktop.png)
+![Courier Desktop](../../assets/screenshot-desktop.png)
 
 ### 📱 Mobile View
-![Courier Desktop](/assets/screenshot-mobile.png)
-![Courier Desktop](/assets/screenshot-mobile-response.png)
+![Courier Desktop](../../assets/screenshot-mobile.png)
+![Courier Desktop](../../assets/screenshot-mobile-response.png)
 
 ## 🛠️ Tech Stack
 
