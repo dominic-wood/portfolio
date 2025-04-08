@@ -4,11 +4,12 @@ parent: Projects
 nav_order: 2
 ---
 
-# 🛠️🌐 NetTools
+# 🛠️🌐 Net Tools
 
 **NetTools** is a Python-based GUI app that brings together key network tools in a simple, user-friendly interface. It’s built for sysadmins, students, and curious tinkerers who want quick access to useful diagnostics.
 
 ![NetTools Logo](../../assets/nettools_logo.png)
+
 ## 🚀 Features
 
 ### 🔍 **Ping Sweeper**
@@ -29,8 +30,6 @@ Trace the path your connection takes to reach a domain or IP. View each hop, inc
 ![DNS Lookup](../../assets/dns_lookup.png)
 ![Traceroute](../../assets/traceroute.png)
 
----
-
 ## 🧱 Tech Stack
 
 - **Python 3.13+**
@@ -45,6 +44,5 @@ This project combines my background in networking and software development with 
 ## 🔗 GitHub Repo
 
 [View on GitHub](https://github.com/dominic-wood/nettools)
-
 
 [← Back to Projects](../projects.md)

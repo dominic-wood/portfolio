@@ -45,8 +45,4 @@ My background blends:
 
 --- 
 
-<div align="center">
-<br>
-
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub" />](https://github.com/dominic-wood)  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn" />](https://www.linkedin.com/in/domjwood)
-</div>
