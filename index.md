@@ -2,6 +2,7 @@
 layout: default
 title: Welcome
 nav_order: 1
+classes: landing-page
 ---
 
 # 👋 Hi, I’m Dominic Wood
