@@ -9,6 +9,7 @@ baseurl: "/portfolio"
 
 # Enable custom styles
 sass:
+  custom_css: assets/css/custom.css
   load_paths:
     - assets/css
 

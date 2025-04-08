@@ -1,74 +1,111 @@
 ---
 title: Courier
 parent: Projects
-nav_order: 4
+nav_order: 1
 ---
 # Courier – API Toolkit 🔺
+Courier is a lightweight Postman-style API testing client built using React, TypeScript, and Tailwind CSS.
 
-Courier is a lightweight Postman-style HTTP client built with React, TypeScript, and Tailwind CSS.  
-It allows developers to quickly compose and test API requests with a clean, focused interface.
+It offers a clean, responsive interface for quickly sending HTTP requests and viewing results — all with a crisp Courier-red design. 🔥
 
+![Courier Screenshot](/assets/courier_logo_black.png)
 
-![Courier Screenshot](../../assets/courier_logo_black.png)
+🔗 **Live Site**: [courierapi.vercel.app](https://courierapi.vercel.app)
 
 ## 🚀 Features
 
-- 🔗 Supports `GET`, `POST`, `PUT`, `DELETE`, and `PATCH` methods
-- 📦 Custom headers input
-- 📝 JSON body editor (auto-disabled for `GET`)
-- 🎯 Response viewer with:
-  - ✅ Status code
-  - 🕒 Request duration
-  - 📋 Copy to clipboard
-  - ❌ Error display
-- 🖼️ Brand-aligned UI with Courier red theme (#ed1c24)
-- 📱 Fully responsive layout
+- 🔗 Supports `GET`, `POST`, `PUT`, `DELETE`, `PATCH`
+- 📦 Custom header inputs
+- 📝 JSON body input (disabled for `GET`)
+- ⚡ Request duration timing
+- ✅ Status code response
+- ❌ Error handling + display
+- 📋 Copy to clipboard
+- 📱 Fully responsive design with mobile bottom sheet viewer
+- 🎨 Courier-branded UI (`#ed1c24` red + bold type)
+
+## 📸 Screenshots
+### 🖥️ Desktop View
+![Courier Desktop](/assets/screenshot-desktop.png)
+
+### 📱 Mobile View
+![Courier Desktop](/assets/screenshot-mobile.png)
+![Courier Desktop](/assets/screenshot-mobile-response.png)
 
 ## 🛠️ Tech Stack
 
-- **React** + **TypeScript**
-- **Tailwind CSS**
-- **Vite** for blazing-fast development
+- ⚛️ React 19 + TypeScript
+- 🎨 Tailwind CSS
+- ⚡ Vite
+- 📦 Hosted via Vercel
+
+---
+
+## 📷 Quick Walkthrough
+
+### Example Request
+
+| Field        | Example                                |
+|--------------|----------------------------------------|
+| **URL**      | `https://jsonplaceholder.typicode.com/posts/1` |
+| **Method**   | `GET`                                  |
+| **Headers**  | `X-Test-Header: CourierDemo`           |
+
+### POST Example
+
+| Field        | Value                                  |
+|--------------|----------------------------------------|
+| **URL**      | `https://jsonplaceholder.typicode.com/posts` |
+| **Method**   | `POST`                                 |
+| **Body**     | `{"title": "Courier is amazing"}`      |
+
+---
 
 ## 🧪 Getting Started
 
-### 1. Clone the repo
 
+### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/courier.git
+git clone https://github.com/dominic-wood/courier.git
 cd courier
 ```
 ### 2. Install dependencies
 ```bash
 npm install
 ```
-
 ### 3. Start the dev server
 ```bash
 npm run dev
 ```
+## 🧼 File Structure
 
-## 🧼  Project Structure
-```css
+```plaintext
 src/
   components/
+    BottomSheet.tsx
     HeaderBar.tsx
     RequestForm.tsx
     ResponseViewer.tsx
   App.tsx
   main.tsx
   index.css
+public/
+  courier-logo.png
+  courier-icon.png
+  favicon.ico
 ```
 
-## 🧭 Roadmap
-- 🧠 Request history
-- 🎨 Theme switcher (dark/light)
-- 🧾 Request preview panel
+## 🛣️ Roadmap
+- 🔁 Request history (localStorage)
+- 🔐 Auth helpers (Bearer / Basic)
+- 🎛️ Theme toggle
 - 💾 Export/import request configs
-- 🌐 Environment variables (Dev/Prod/etc.)
+- 🌍 Environment & variable support
+- 🔍 Auto-format JSON
 
-## 📃 License
-MIT – Use it, fork it, break it, improve it.
+## 🧾 License
+MIT — Use it, fork it, build on it, break it.  
+Created by Dominic Wood
 
 ## 🔗 GitHub Repo
 

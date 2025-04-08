@@ -4,53 +4,67 @@ title: Welcome
 nav_order: 1
 ---
 
-# 👋 Hello, I'm Dominic Wood
+# 👋 Hi, I’m Dominic Wood
 
-I'm a **Network Engineer** with 6 years of experience in **Software Engineering** — now focusing on **Technical Writing**.
+I'm a **Network Engineer** with 6 years of **Software Engineering** experience, now focusing on my passion — **Technical Writing**.
 
-I specialise in creating clean, developer-friendly tools and documentation that explain complex systems with clarity and confidence.
+I craft developer-friendly tools and documentation that demystify complex systems with clarity and confidence.
 
-![Dominic Wood banner](/assets/dominic-bitmoji.png)
+![Dominic Wood Bitmoji](/assets/dominic-bitmoji.png)
 
 ## 🧭 What You'll Find Here
 
-This site showcases my ability to:
-- ✍️ Write clear, structured documentation
-- 🛠️ Build and explain technical tools
-- 📚 Break down networking, software, and API concepts
+This portfolio highlights my ability to:
+
+- ✍️ Write clear, structured documentation  
+- 🛠️ Build and explain developer tools  
+- 📚 Simplify networking, software, and API concepts  
 - 💡 Think like a developer, write like a teacher
 
-## 🧰 Featured Work
+## 🚀 Featured Work
 
-Here are a few things I’ve been building and writing:
+A mix of hands-on projects and documentation:
 
-### 📄 Projects
+### 📄 Developer Tools
 
-- 🔐 [Password Generator (Python)](docs/projects/password-generator.md)
-- 🌐 [NetTools — Network Utilities (Python)](docs/projects/nettools.md)
-- 📸 [QR Code Generator (Python)](docs/projects/qr-generator.md)
-- 🔺 [Courier - A Postman Clone (TypeScript)](docs/projects/courier.md)
+- 🔐 [Password Generator (Python)](docs/projects/password-generator.md)  
+  A simple and secure CLI tool for generating strong passwords.
 
-### 📘 Documentation
+- 🌐 [NetTools – Network Utilities (Python)](docs/projects/nettools.md)  
+  A handy suite of command-line tools for quick network tests.
 
-- 📘 [Sample API Documentation](docs/writing/api-sample.md)
-- 🧪 [Networking Lab Guide](docs/writing/networking-lab.md)
+- 📸 [QR Code Generator (Python)](docs/projects/qr-generator.md)  
+  Generate and save QR codes from any string or URL.
+
+- 🔺 [Courier – API Toolkit (TypeScript)](docs/projects/courier.md)  
+  A modern Postman-style API client with a responsive UI and sleek UX.
+
+### 📘 Technical Writing Samples
+
+- 🧪 [Networking Lab Guide](docs/writing/networking-lab.md)  
+  A beginner-friendly walkthrough for setting up a home lab.
+
+- 🧾 [Sample API Documentation](docs/writing/api-sample.md)  
+  RESTful API reference doc — designed for dev usability.
+
+- 🌱 [Git for Beginners](docs/writing/git-guide.md)  
+  A clear, concise guide to Git fundamentals, ideal for new developers.
 
 ## 👨‍💻 About Me
 
-With a passion for documentation and teaching, I’m pivoting into technical writing full-time.  
-My background blends:
-- Real-world networking experience
-- Software dev in Python, C#, and more
-- A deep appreciation for clear, helpful docs
+I'm transitioning full-time into Technical Writing because I genuinely enjoy making things *click* for others.
 
----
+My background includes:
 
+- 🖧 Hands-on networking experience  
+- 🧠 Software development in Python, C#, TypeScript  
+- 📚 A love for clear, thoughtful documentation
 
-<div align="center">
+## 🔗 Connect With Me
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub" />](https://github.com/dominic-wood)
 &nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn" />](https://www.linkedin.com/in/domjwood)
 
-</div>
+
+> *"The best writing is invisible — it teaches without friction."*
