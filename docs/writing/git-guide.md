@@ -24,7 +24,7 @@ git config --global user.email "you@example.com"
 
 ## Common Commands
 | Command | Description |
-|--------|-------------|
+|---|---|
 | `git init` | Initialize a repo |
 | `git clone <url>` | Clone a remote repo |
 | `git status` | Check current changes |
