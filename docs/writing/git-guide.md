@@ -1,3 +1,10 @@
+---
+title: Git for Beginners
+parent: Writing
+nav_order: 2
+---
+
+
 # Git for Beginners
 
 Version control is essential for developers, and Git is the most widely used system. This guide covers the basics to get you started.

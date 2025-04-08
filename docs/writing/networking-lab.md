@@ -1,7 +1,7 @@
 ---
 title: Networking Lab Guide
 parent: Writing
-nav_order: 4
+nav_order: 1
 ---
 
 # 🧪 Networking Lab: Set Up and Monitor a Local Network
