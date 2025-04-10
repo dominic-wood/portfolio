@@ -10,7 +10,7 @@ It offers a clean, responsive interface for quickly sending HTTP requests and vi
 
 ![Courier Logo](../../assets/courier_logo_black.png)
 
-🔗 **Live Site**: [courierapi.vercel.app](https://couriertoolkit.vercel.app)
+🔗 **Live Site**: [couriertoolkit.vercel.app](https://couriertoolkit.vercel.app)
 
 ## 🚀 Features
 
