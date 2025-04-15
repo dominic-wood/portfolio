@@ -10,6 +10,7 @@ nav_order: 2
 
 ## 🌍 Live Demo
 [https://wandersport.vercel.app](https://wandersport.vercel.app)
+
 ![Dashboard](../../assets/wandersport-dashboard.png)
 
 ## 🧰 Tech Stack
