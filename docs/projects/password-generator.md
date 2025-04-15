@@ -1,7 +1,7 @@
 ---
 title: Password Generator
 parent: Projects
-nav_order: 3
+nav_order: 4
 ---
 
 # 🔐 Password Generator
@@ -12,7 +12,7 @@ Quickly generate secure, customizable passwords with live strength feedback and 
 
 ![Password Generator Icon](../../assets/password_generator_icon.png)
 
-## ✨ Features
+## 🚀 Features
 
 - 📏 Adjustable password length via slider  
 - 🔤 Toggle character options:

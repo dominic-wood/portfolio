@@ -1,7 +1,7 @@
 ---
 title: NetTools
 parent: Projects
-nav_order: 2
+nav_order: 3
 ---
 
 # 🌐 Net Tools

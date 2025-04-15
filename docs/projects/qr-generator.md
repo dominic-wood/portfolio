@@ -1,7 +1,7 @@
 ---
 title: QR Code Generator
 parent: Projects
-nav_order: 4
+nav_order: 5
 ---
 
 # 📸 QR Code Studio
@@ -10,7 +10,7 @@ A simple Python application for generating QR codes with custom styles, template
 
 ![QR Generator Icon](../../assets/qr_generator_icon.png)
 
-## ✨ Features
+## 🚀 Features
 
 - 🔗 Generate QR codes from any URL, email, phone number, or WiFi credentials  
 - 🎨 Customise foreground and background colours using a visual colour picker  
