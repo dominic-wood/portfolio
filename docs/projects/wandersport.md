@@ -9,7 +9,7 @@ nav_order: 2
 ![icon-red](../../assets/icon-red.png)
 
 ## 🌍 Live Demo
-[https://wandersport.vercel.app](https://wandersport.vercel.app)
+[wander-sport.co.uk](https://wander-sport.co.uk)
 
 ![Dashboard](../../assets/wandersport-dashboard.png)
 
