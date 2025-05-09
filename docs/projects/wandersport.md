@@ -1,5 +1,5 @@
 ---
-title: Courier - API Toolkit
+title: WanderSport
 parent: Projects
 nav_order: 2
 ---
